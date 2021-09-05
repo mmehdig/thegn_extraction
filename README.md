@@ -14,6 +14,12 @@ python fetch_links.py
 2. Create URLs to queries for `http://clarino.uib.no/menota`.
 3. Use Scrapy to fetch the results and the title of the context.
 
+# Requerments
+
+- Python 3
+  - Packages:
+  - Scrapy 2.5
+
 # Authors
 
 - Denis Sukino-Khomenko 
